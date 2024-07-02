@@ -68,10 +68,8 @@ const CodeBlocks = ({
         </div>
 
      </div>
-
-
     </div>
-  )
+    )
 }
 
 export default CodeBlocks
