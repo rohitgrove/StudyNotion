@@ -26,7 +26,7 @@ const TimeLine = [
       Heading: "Solve the problem",
       Description: "Code your way to a solution",
     },
-  ];
+];
 
 
 const TimelineSection = () => {
